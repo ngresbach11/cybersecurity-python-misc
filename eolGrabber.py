@@ -1,3 +1,4 @@
+# A simple script to pull product end of life dates from https://endoflife.date/
 import requests
 import json
 import time
